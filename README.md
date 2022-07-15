@@ -10,6 +10,7 @@ I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am cu
 — love drawing and working on clean design <br>
 — overusing :) for the happy mood <br>
 — coffee lover <br>
+— lost in museums in my freetime<br>
 
 ##### SKILLS
 :coffee:         Javascript <br>
