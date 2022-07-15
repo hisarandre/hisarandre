@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Sara 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hisarandre/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hisarandre)
+![](https://visitor-badge.glitch.me/badge?page_id=hisarandre&style=flat-square&color=0088cc)
 
-<!--
-**hisarandre/hisarandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am currently working on [GameOn](https://github.com/hisarandre/OC-P4__gameon) 💻 but most of my other projects are available on Github.
 
-Here are some ideas to get you started:
+##### LIFE
+— expat currently living in south korea [ be / fr / sk ] <br>
+— love drawing and working on clean design <br>
+— overusing :) for the happy mood <br>
+— coffee lover <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### SKILLS
+:coffee:         Javascript <br>
+:sunglasses:     Sass <br>
+:paintbrush:     Adobe suite <br>
