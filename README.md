@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hisarandre)
 ![](https://visitor-badge.glitch.me/badge?page_id=hisarandre&style=flat-square&color=0088cc)
 
-I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am currently working on new project 💻 but most of my other projects are available on Github.
+I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am currently learning JAVA and working on new project  💻 but most of my other projects are available on Github.
 
 ##### LIFE
 — expat currently living in south korea [ be / fr / sk ] <br>
