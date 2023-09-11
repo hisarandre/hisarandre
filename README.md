@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hisarandre)
 ![](https://visitor-badge.glitch.me/badge?page_id=hisarandre&style=flat-square&color=0088cc)
 
-I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am currently learning JAVA and working on a new project  💻 but most of my other projects are available on Github.
+I'm a **fullstack developer** with a keen eye for graphic design ✨<br>
 
 ##### LIFE
 — love drawing and working on clean design <br>
@@ -12,9 +12,9 @@ I'm a **Front-end developer** with a keen eye for graphic design ✨<br> I am cu
 — lost in museums in my freetime<br>
 
 ##### SKILLS
-:coffee:         Javascript <br>
-:sunglasses:     React <br>
-:ok_hand:        Redux <br>
-:eyes:           Jest <br>
-:nail_care:      Sass <br>
-:paintbrush:     Adobe suite <br>
+:coffee:         Java, Spring <br>
+:sunglasses:     React, Redux, Javascript <br>
+:ok_hand:        Sql, NoSql <br>
+:eyes:           Jest, Junit <br>
+:nail_care:      Sass, Css, Html <br>
+:paintbrush:     Adobe suite, Figma <br>
