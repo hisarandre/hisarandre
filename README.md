@@ -12,8 +12,8 @@ I'm a **fullstack developer** with a keen eye for graphic design ✨<br>
 — lost in museums in my freetime<br>
 
 ##### SKILLS
-:coffee:         Java, Spring <br>
-:sunglasses:     React, Redux, Javascript <br>
+:coffee:         Java, Spring, Nest <br>
+:sunglasses:     React, Redux, Javascript, Angular <br>
 :ok_hand:        Sql, NoSql <br>
 :eyes:           Jest, Junit <br>
 :nail_care:      Sass, Css, Html <br>
